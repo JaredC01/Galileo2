@@ -11,5 +11,5 @@ Update the following table with the information about your mod:
 
 | Creator | Mod title | Description | G2E | G2Z | G2SA |
 | --- | --- | --- | --- | --- | --- |
-| hartk |[ PG7 Umbilical ](./user_mods/hartk/PG7_Umbilical)| Umbilical mount to use a PG7 strain relief with a side mounted toolhead boards for Stealthburner | :heavy_check_mark: | :x: | :x: |
+| hartk |[ PG7 Umbilical ](./hartk/PG7_Umbilical)| Umbilical mount to use a PG7 strain relief with a side mounted toolhead boards for Stealthburner | :heavy_check_mark: | :x: | :x: |
 
