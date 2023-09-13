@@ -1,0 +1,5 @@
+## Galileo 2 Z-Drive (G2Z)
+
+![Image](../images/g2z.png)
+
+The Galileo 2 Z-Drive (G2Z) is designed as a compact Z-drive for the Voron V2 and Micron printers.  It features the same 9:1 planetary gearbox and stepper in an easy-to-assemble package without the need for belts or pulleys (outside of the Z belt and pulley themselves).  This design saves considerable space in the electronics compartment for small V2 printers, as well as the Micron 120 and 180 printers, allowing for more room where it's needed most.  On larger V2 printers the benefit is smaller, but still includes the higher gear ratio (up to 9:1 from 5:1) for increased print resolution.  There are also multiple applications for usermods outside of the V2/Micron printers, such as a belted V0 Z drive.  Currently, G2Z is NOT recommended for large V2 printers if gantry sag is a concern; the G2Z modules will drop as much or more than the stock V2 Z drives on larger printers.  That said, users have installed them on printers up to 350mm in size without additional issues over the noted gantry drop.
