@@ -36,7 +36,7 @@ You must update both the gear_ratio and rotation_distance in your Klipper config
 [stepper_z]
 rotation_distance: 40
 gear_ratio: 9:1
-microsteps: 23
+microsteps: 32
 
 [tmc2209 stepper_z]
 run_current: 0.8
