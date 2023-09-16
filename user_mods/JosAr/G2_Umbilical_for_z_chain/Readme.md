@@ -96,13 +96,13 @@ There's a small support that's included to minimize the footprint of the screw.
 
 | Instruction                                                  | Image                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. Remove the printed support on the G2_CAN_mount_motor part. | <img src="./Images/Motor_mount_1.jpg" style="zoom:33%;"/>                    |
+| 1. Remove the printed support on the G2_CAN_mount_motor part. | <img src="./Images/Motor_mount_1.jpg"/>                      |
 | 2. Attach the m12 metal standoffs, or the printed versions (with one m3 heatset insert on each end) to the G2 lower motor screws, like on the photo. | ![SB_PCB_2](./Images/Motor_mount_2.jpg)                      |
-| 3. Attach the printed part G2_CAN_mount_motor PG7 or M12, depending on your gland version to the G2 body, the top part is secured by a 40 to 50mm m3 screw, the bottom will be secured later by the toolhead holder. | ![Motor_mount_3](./Images/Readme/Motor_mount_3.jpg)          |
+| 3. Attach the printed part G2_CAN_mount_motor PG7 or M12, depending on your gland version to the G2 body, the top part is secured by a 40 to 50mm m3 screw, the bottom will be secured later by the toolhead holder. | ![Motor_mount_3](./Images/Motor_mount_3.jpg)                 |
 | 4. now secure the xxx36/42 to the respective holder, the xxx36 uses two 6mm m3 screws on both attachment locations, the xxx42 uses a 6mm m3 screw on the bottom right attachment location (highlighted in red). | ![Motor_mount_4](./Images/Motor_mount_4.jpg)                 |
 | 5. Now, use a 12mm m3 screw on the top right xxx32/46 holder attachment location with the printed 4mm spacer below the holder (highlighted in red), the screw in the image is a 16mm one, but a 12mm also works and is on the Voron BOM. | ![Motor_mount_5](./Images/Motor_mount_5.jpg)                 |
-| 6. now secure the holder with the top screw on the top motor standoff and to the bottom one with a 12mm m3 screw (highlighted in red). | ![20230915_145759](./Images/Readme/20230915_145759.jpg)![20230915_150247](./Images/Readme/20230915_150247.jpg) |
-| 7. Now use the G2_cable_cover_for_CAN to cover the front part of the toolhead, it mounts the same way as the original. | ![20230915_143737](./Images/Readme/Motor_mount_7.jpg)![Motor_mount_7_2](./Images/Readme/Motor_mount_7_2.jpg) |
+| 6. now secure the holder with the top screw on the top motor standoff and to the bottom one with a 12mm m3 screw (highlighted in red). | ![Motor Mount 6](./Images/Motor_mount_6.jpg)                 |
+| 7. Now use the G2_cable_cover_for_CAN to cover the front part of the toolhead, it mounts the same way as the original. | ![Motor mount 7](./Images/Motor_mount_7.jpg)![Motor_mount_7_2](./Images/Motor_mount_7_2.jpg) |
 | 8. the final product, you can now use it as you would normally would | ![Motor_mount_8](./Images/Motor_mount_8.jpg)                 |
 
 ## Last remarks
