@@ -12,4 +12,5 @@ Update the following table with the information about your mod:
 | Creator | Mod title | Description | G2E | G2Z | G2SA |
 | --- | --- | --- | --- | --- | --- |
 | hartk |[ PG7 Umbilical ](./hartk/PG7_Umbilical)| Umbilical mount to use a PG7 strain relief with a side mounted toolhead boards for Stealthburner | :heavy_check_mark: | :x: | :x: |
+| JosAr |[ Umbilical's mounts for Z chains ](./hartk/PG7_Umbilical)| Umbilical mount to use a PG7 or M12 strain relief mounted on the side of G2, to allow the usage of V2.4 stock Z chain | :heavy_check_mark: | :x: | :x: |
 
