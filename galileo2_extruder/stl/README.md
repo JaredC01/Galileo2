@@ -14,4 +14,10 @@ For G2E, here is the list of STL files that you need to choose a SINGLE file fro
 * <ins>cable_chain_3_hole.stl</ins>
 	* For 3-hole cable chains (befenybay and similar).
 
+And a SINGLE file from:
+* <ins>front_body_ECAS_coupler.stl</ins>
+	* For installation of an ECAS bowden coupler on the G2E body
+* <ins>front_body.stl</ins>
+	* For a friction fit bowden tube into the G2E body
+
 ![Image](../../images/g2eplate.png)
