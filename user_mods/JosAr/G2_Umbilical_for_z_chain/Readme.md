@@ -10,6 +10,12 @@ There are two versions of the umbilical mount.
 
 One for the SB PCB style toolhead boards (SB Toolhead PCB, FLY-SB-2040, EBB SB2209/SB240, SB CAN TH, etc), and another for motor mounted boards (Huvud, FLY-SHT36/42, EBB36/42, etc)
 
+### V1.1 update
+
+The G2 CAN motor mounts had an issue where plastic wasn't where it was supposed to be, volved that and updated the STL's
+
+
+
 Without further delay, you can access the relevant sections below.
 
 # SB PCB version
