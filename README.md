@@ -32,7 +32,7 @@ For those that are curious about what Galileo 2 offers over Galileo 1, here's a 
 |       3DO       |   Denmark     | https://3do.eu/accessory/1232-galileo-2-extruder-kit-by-ldo.html                                                                |
 |     3Dparts     |   Austria     | https://www.3dparts.at/                                                                                                         |
 |     Lecktor     |   Estonia     | https://lecktor.com/en/extruders/1480-galileo2-extruder-kit-g2e.html                                                            |
-|      Zen3d      |    Hungry     | https://shop.zen3d.hu/ldo-galileo-2-extruder-g2e                                                                                |
+|      Zen3d      |   Hungary     | https://shop.zen3d.hu/ldo-galileo-2-extruder-g2e                                                                                |
 |     Lab4450     |   Portugal    | https://lab4450.com/product/galileo-2-extruder-kit/                                                                             |
 |  Levendig dsgn  | Netherlands   | https://shop.levendigdsgn.com/                                                                                                  |
 |     Kris3d      |   Germany     | https://www.kris3d.de/                                                                                                          |
