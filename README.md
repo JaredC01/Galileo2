@@ -16,8 +16,9 @@ For those that are curious about what Galileo 2 offers over Galileo 1, here's a 
 ## Galileo 2 Resellers List
 ### <ins>TO NOTE!  ONLY the kits sold by LDO are "official" Galileo 2 kits!</ins>
 
+| Reseller        | Location      | Website                                                                                                                         |
+|---------------- |-------------  |-------------------------------------------------------------------------------------------------------------------------------  |
 |    Fabreeko     |     USA       | https://www.fabreeko.com/                                                                                                       |
-|:--------------: |:-----------:  |-------------------------------------------------------------------------------------------------------------------------------  |
 |     West3D      |     USA       | https://west3d.com/products/galileo-2-kit-by-jaredc01-ldo-motors-g2e-and-g2z-extruder-and-z-drive-kits?variant=43937791639764   |
 |   Filastruder   |     USA       | https://www.filastruder.com/search?type=product&q=GALILEO2                                                                      |
 |       DFH       |     USA       | https://dfh.fm/                                                                                                                 |
