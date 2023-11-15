@@ -12,7 +12,7 @@ One for the SB PCB style toolhead boards (SB Toolhead PCB, FLY-SB-2040, EBB SB22
 
 ### V1.1 update
 
-The G2 CAN motor mounts had an issue where plastic wasn't where it was supposed to be, volved that and updated the STL's
+The G2 CAN motor mounts had an issue where plastic wasn't where it was supposed to be, solved that and updated the STL's
 
 
 
