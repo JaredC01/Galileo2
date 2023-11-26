@@ -15,3 +15,4 @@ Update the following table with the information about your mod:
 | JosAr |[ Umbilical's mounts for Z chains ](./JosAr/G2_Umbilical_for_z_chain)| Umbilical mount to use a PG7 or M12 strain relief mounted on the side of G2, to allow the usage of V2.4 stock Z chain | :heavy_check_mark: | :x: | :x: |
 | Tetsu |[ G2SA umbilical (PG7/CNLINKO) ](./Tetsu/G2SA%20umbilical%20mount%20with%20PG7%26CNLINKO)| G2SA umbilical mount with PG7&CNLINKO | :x: | :x: | :heavy_check_mark: |
 | o1hitman1o |[ G2E (25x25x7 Fan cover) ](./o1hitman1o/25x25x7mm%20Fan)| Fan Cover 25x25x7mm  | :heavy_check_mark: |  :x: | :x: |
+| o1hitman1o/Baze_24616/hartk |[ Umbilical mount 3DO Nozzle Cam board mount) ](./o1hitman1o/PG7_Umbilical_3DO_Cam)| Umbilical mount to use a PG7 or M12 strain relief mounted on the side of G2 and mount a 3DO nozzel cam board  | :heavy_check_mark: |  :x: | :x: |
