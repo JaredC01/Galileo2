@@ -39,7 +39,7 @@ For those that are curious about what Galileo 2 offers over Galileo 1, here's a 
 | Jacks Filament  |   Germany     | https://www.jacksfilament.com/Galileo-2-Extruder-Kit-G2E-by-LDO                                                                 |
 |   partner-3d    |   Germany     | https://partner-3d.de/3d-druck-ersatzteile/                                                                                     |
 |    Alchemy3d    |   Germany     | https://alchemy3d.de/products/ldo-galileo-2-extruder-kit-pre-order?_pos=1&_sid=6989ccc18&_ss=r                                  |
-|    replimat     |   Germany     | https://replimat.eu                                                                                                             |
+|    replimat     |   Germany     | https://www.replimat.eu/projects/galileo-2/                                                                                                             |
 |      SWBAC      |    Kuwait     | https://swbac.com/product-category/3d-printing/ldo/                                                                             |
 |     Sugoi3d     |    Japan      | https://www.sugoi3d.jp                                                                                                          |
 |  Trianglelabs   |    Global     | https://www.aliexpress.com/item/1005006272643489.html                                                                           |
