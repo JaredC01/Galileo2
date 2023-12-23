@@ -40,8 +40,10 @@ For those that are curious about what Galileo 2 offers over Galileo 1, here's a 
 |   partner-3d    |   Germany     | https://partner-3d.de/3d-druck-ersatzteile/                                                                                     |
 |    Alchemy3d    |   Germany     | https://alchemy3d.de/products/ldo-galileo-2-extruder-kit-pre-order?_pos=1&_sid=6989ccc18&_ss=r                                  |
 |    replimat     |   Germany     | https://replimat.eu                                                                                                             |
-|      SWBAC      |    Kuwait     |  https://swbac.com/product-category/3d-printing/ldo/                                                                            |
-|     Sugoi3d     |    Japan      | www.sugoi3d.jp                                                                                                                  |
+|      SWBAC      |    Kuwait     | https://swbac.com/product-category/3d-printing/ldo/                                                                             |
+|     Sugoi3d     |    Japan      | https://www.sugoi3d.jp                                                                                                          |
+|  Trianglelabs   |    Global     | https://www.aliexpress.com/item/1005006272643489.html                                                                           |
+|     Mellow      |    Global     | https://www.aliexpress.com/item/1005006310395949.html                                                                           |
 
 ## Klipper Settings for G2 Extruders (G2E and G2SA)
 
