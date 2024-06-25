@@ -1,6 +1,6 @@
 # Galileo 2
 
-## NOTE: Galileo 2 Extruder is currently at RELEASE status.  G2SA and G2Z/G2ZXL are still PUBLIC BETA pending some further testing.
+## NOTE: Galileo 2 Extruder and G2Z/G2ZXL are currently at RELEASE status.  G2SA is still PUBLIC BETA pending design finalization and testing.
 
 ![Image](./images/g2extruders.png)
 
