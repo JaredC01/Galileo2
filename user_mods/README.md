@@ -16,3 +16,4 @@ Update the following table with the information about your mod:
 | o1hitman1o |[ G2E (25x25x7 Fan cover) ](./o1hitman1o/25x25x7mm%20Fan)| Fan Cover 25x25x7mm  | :heavy_check_mark: |  :x: | :x: |
 | o1hitman1o |[ G2E Umbilical 3DO Nozzle Camera Board Mount ](./o1hitman1o/G2E_Umbilical_3DO_nozzle-camera)| G2E Umbilical 3DO Nozzle Camera Board Mount  | :heavy_check_mark: |  :x: | :x: |
 | Tetsu |[ G2SA umbilical (PG7/CNLINKO) ](./Tetsu/G2SA%20umbilical%20mount%20with%20PG7%26CNLINKO)| G2SA umbilical mount with PG7&CNLINKO | :x: | :x: | :heavy_check_mark: |
+| jmedlin |[ G2E Switchwire Cable Chain Anchor ](./jmedlin/G2E_Switchwire_Cable_Chain_Anchor)| Extended cable chain anchor to align with the Switchwire | :heavy_check_mark: | :x: | :x: |
